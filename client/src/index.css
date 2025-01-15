@@ -1,0 +1,12 @@
+p,
+h1,
+div {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/** Flags customization **/
+img {
+  width: 400px;
+  height: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
